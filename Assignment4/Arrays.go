@@ -1,6 +1,5 @@
 // Assignment 4:
 
-// 6. Create calculator app using pointers (edited)
 
 package main
 
